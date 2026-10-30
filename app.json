@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "DevRepo",
+    "slug": "devrepo-task-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#080810"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.devrepo.taskmanager"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#080810"
+      },
+      "package": "com.devrepo.taskmanager"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
